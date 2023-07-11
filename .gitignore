@@ -1,4 +1,2 @@
 node_modules
 .next
-tsconfig.json
-next-env.d.ts
